@@ -74,6 +74,6 @@ IoT-based mask detection using live camera feed and alert systems with buzzer an
 ## Contact
 
 - GitHub: [github.com/Yazeed02](https://github.com/Yazeed02)  
-- LinkedIn: [linkedin.com/in/yazeedmowfi(https://www.linkedin.com/in/yazeedmowfi)  
+- LinkedIn: [linkedin.com/in/yazeedmowfi](https://www.linkedin.com/in/yazeedmowfi)  
 - Email: yazeedmowfi@gmail.com
 
