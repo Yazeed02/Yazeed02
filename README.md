@@ -1,4 +1,4 @@
-# Yazeed Mowfi
+# Yazeed Mwafi
 
 Full-Stack Developer | ASP.NET Core | SQL Server | React
 
@@ -74,6 +74,6 @@ IoT-based mask detection using live camera feed and alert systems with buzzer an
 ## Contact
 
 - GitHub: [github.com/Yazeed02](https://github.com/Yazeed02)  
-- LinkedIn: [linkedin.com/in/yazeedmowfi](https://www.linkedin.com/in/yazeedmowfi)  
+- LinkedIn: [linkedin.com/in/yazeedmwafi](https://www.linkedin.com/in/yazeedmwafi)  
 - Email: yazeedmowfi@gmail.com
 
